@@ -1,4 +1,4 @@
-# Road Accident Analysis in 2021-2022 | Power BI
+# Road Accident Analysis | Power BI
 
 Description:
 
