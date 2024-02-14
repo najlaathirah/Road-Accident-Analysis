@@ -19,3 +19,5 @@ Technical Skills:
 - Data modelling
 - Power BI dashboard creation & visualisation design
 - Advanced DAX measures development
+
+[Interactive dashboard can be accessed here](https://www.novypro.com/project/road-accident-analysis-74)
