@@ -1,4 +1,4 @@
-# Road Accident Analysis | Power BI
+# Road Accident Analysis | SQL and Power BI
 🔗 [Interactive dashboard can be accessed here](https://www.novypro.com/project/road-accident-analysis-74)
 
 This project presents an analysis of raw data from Data Tutorials (YouTube) aimed at providing insights into road accidents in 2021 and 2022 to support efforts in improving road safety. MS SQL Server was employed for data validation and Power BI was employed to:
